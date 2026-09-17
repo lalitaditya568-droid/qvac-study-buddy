@@ -1,0 +1,22 @@
+{
+  "name": "qvac-study-buddy",
+  "version": "1.0.0",
+  "description": "A private on-device AI study assistant powered by QVAC.",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "qvac",
+    "local-ai",
+    "on-device-ai",
+    "ai",
+    "study-assistant"
+  ],
+  "author": "Lalitaditya",
+  "license": "MIT",
+  "dependencies": {
+    "@qvac/sdk": "0.19.1"
+  }
+}
